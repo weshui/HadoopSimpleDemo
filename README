@@ -1,2 +1,6 @@
-Simple HadoopDemo for CS511
+Simple HadoopDemo(MP1) for CS511
+.sh file contains information on how to run corresponding program.
+
+Task of P1.java is to count the 3rd, 4th, 5th field of given data.
+Task of P2.java is to find all "complex relation" within given data.
 
